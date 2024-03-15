@@ -1,0 +1,81 @@
+.link{
+gap: 1rem;
+    list-style-type: none;
+    display: inline;
+    display: flex;
+    justify-content: center;
+
+}
+.home{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
+nav{
+    background-color: black;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    border-radius: 2rem;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.sec{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYlMVq8MPXGtzPj8aWYEC7nkw2o9iL5YFng&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 2rem;
+}
+.off{
+    font-size: 2rem;
+    color: white;
+}
+.para{
+    color: white;
+    line-height: 25px;
+}
+.box{
+    display: flex;
+    gap: 2rem;
+    margin: 2%;
+}
+.list{
+    list-style-type: none;
+
+}
+.one{
+    border: 2px solid pink;
+    background-color: pink;
+   padding: 1%;
+   border-radius: 2rem;
+}
+.two{
+    border: 2px solid pink;
+    background-color: pink;
+    padding: 1%;
+    border-radius: 2rem;
+}
+.three{
+    border: 2px solid pink;
+    background-color: pink;
+    padding: 1%;
+    border-radius: 2rem;
+}
+footer{
+    display: flex;
+    margin: 2%;
+}
+.foot1{
+    border: o solid ;
+    width: 70%;
+    padding-left: 5%;
+}
+.foot2{
+    border: o solid ;
+    width: 30%;
+}
